@@ -1,0 +1,1948 @@
+[
+  {
+    "NOME_EXIBIDOR": "51.673.017 PEDRO HENRIQUE CHAVES DONATO ROCHA",
+    "qtd_salas": 1,
+    "total_assentos": 6,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.0
+  },
+  {
+    "NOME_EXIBIDOR": "A DIAS DE SOUSA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1674
+  },
+  {
+    "NOME_EXIBIDOR": "A. L. MENDES DE CARVALHO LEMOS E CIA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 322,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2346
+  },
+  {
+    "NOME_EXIBIDOR": "ADICINE ADMINISTRADORA DE CINEMAS LTDA",
+    "qtd_salas": 17,
+    "total_assentos": 2641,
+    "score_infra_medio": 0.4118,
+    "score_capacidade_medio": 0.1846
+  },
+  {
+    "NOME_EXIBIDOR": "ADRIANO RICARDO LEITE - ME",
+    "qtd_salas": 1,
+    "total_assentos": 140,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1793
+  },
+  {
+    "NOME_EXIBIDOR": "AFA CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 538,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.09
+  },
+  {
+    "NOME_EXIBIDOR": "ALISSON MANOEL ARENA MAIA & CIA LTDA-ME",
+    "qtd_salas": 1,
+    "total_assentos": 135,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2304
+  },
+  {
+    "NOME_EXIBIDOR": "ALQUIMIA CULTURAL EMPREENDIMENTOS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 77,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2665
+  },
+  {
+    "NOME_EXIBIDOR": "ALVARO DA SILVA CRUZ",
+    "qtd_salas": 2,
+    "total_assentos": 258,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1999
+  },
+  {
+    "NOME_EXIBIDOR": "ARCOS DIGITAL FILMES LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 88,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2853
+  },
+  {
+    "NOME_EXIBIDOR": "ARENA CINEMATOGRAFIA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 156,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2378
+  },
+  {
+    "NOME_EXIBIDOR": "ARTE VITAL EXIBIÇÕES CINEMATOGRÁFICAS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 185,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.3774
+  },
+  {
+    "NOME_EXIBIDOR": "ASSOCIACAO CLUBE LITERARIO TAMBORIL",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.8303
+  },
+  {
+    "NOME_EXIBIDOR": "ASSOCIAÇÃO CULTURAL APARECEU A MARGARIDA - ACAM",
+    "qtd_salas": 1,
+    "total_assentos": 55,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3848
+  },
+  {
+    "NOME_EXIBIDOR": "ASSOCIAÇÃO CULTURAL ARTE PAJUÇARA - ACAP",
+    "qtd_salas": 2,
+    "total_assentos": 329,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2294
+  },
+  {
+    "NOME_EXIBIDOR": "ASSOCIAÇÃO DOS AMIGOS DA CINEMATECA PAULO AMORIM",
+    "qtd_salas": 3,
+    "total_assentos": 235,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.2817
+  },
+  {
+    "NOME_EXIBIDOR": "AVBR PRODUÇÕES LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 83,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3024
+  },
+  {
+    "NOME_EXIBIDOR": "B. DE A. SILVA",
+    "qtd_salas": 2,
+    "total_assentos": 336,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2053
+  },
+  {
+    "NOME_EXIBIDOR": "BENEDITO CELSO PINHEIRO DE QUADROS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 764,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0812
+  },
+  {
+    "NOME_EXIBIDOR": "C.VALE PROGRAMA DE FIDELIZACAO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 240,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1046
+  },
+  {
+    "NOME_EXIBIDOR": "CARVALHO E CIA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 266,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.189
+  },
+  {
+    "NOME_EXIBIDOR": "CARVALHO E ENTRETENIMENTO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.251
+  },
+  {
+    "NOME_EXIBIDOR": "CASA DE IDEIAS DE ARTES E SERVICOS CULTURAIS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 49,
+    "score_infra_medio": 0.8333,
+    "score_capacidade_medio": 0.5125
+  },
+  {
+    "NOME_EXIBIDOR": "CENTER PLAZA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 514,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1161
+  },
+  {
+    "NOME_EXIBIDOR": "CENTRO DE CULTURA BELAS ARTES CINEMAS",
+    "qtd_salas": 6,
+    "total_assentos": 1034,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1611
+  },
+  {
+    "NOME_EXIBIDOR": "CENTRO POPULAR DE CULTURA 8 DE MARÇO",
+    "qtd_salas": 1,
+    "total_assentos": 99,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2193
+  },
+  {
+    "NOME_EXIBIDOR": "CIA DE CINEMA BRASIL",
+    "qtd_salas": 4,
+    "total_assentos": 1011,
+    "score_infra_medio": 0.5833,
+    "score_capacidade_medio": 0.1362
+  },
+  {
+    "NOME_EXIBIDOR": "CINE 163 - EMPRESA CINEMATOGRAFICAS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 163,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.154
+  },
+  {
+    "NOME_EXIBIDOR": "CINE A LTDA",
+    "qtd_salas": 60,
+    "total_assentos": 9094,
+    "score_infra_medio": 0.6444,
+    "score_capacidade_medio": 0.1641
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ALIANCA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 130,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2234
+  },
+  {
+    "NOME_EXIBIDOR": "CINE CARVALHO E CIA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 423,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3046
+  },
+  {
+    "NOME_EXIBIDOR": "CINE CARVALHO E LEMOS LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 398,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2356
+  },
+  {
+    "NOME_EXIBIDOR": "CINE CAXAMBU LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3876
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ELI AMAZONAS CINEMAS LTDA - EM RECUPERAÇÃO JUDICIAL",
+    "qtd_salas": 4,
+    "total_assentos": 670,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1347
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ELI BAHIA CINEMAS LTDA - EM RECUPERACAO JUDICIAL",
+    "qtd_salas": 3,
+    "total_assentos": 428,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2393
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ELI SERGIPE CINEMAS LTDA",
+    "qtd_salas": 7,
+    "total_assentos": 1095,
+    "score_infra_medio": 0.619,
+    "score_capacidade_medio": 0.2614
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ELI SP CINEMAS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 382,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.0943
+  },
+  {
+    "NOME_EXIBIDOR": "CINE ESTAÇÃO OPERADORA DE CINEMA LTDA",
+    "qtd_salas": 6,
+    "total_assentos": 1052,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2041
+  },
+  {
+    "NOME_EXIBIDOR": "CINE FREITAS EXIBIÇÕES CINEMATOGRAFICAS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 169,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.255
+  },
+  {
+    "NOME_EXIBIDOR": "CINE GRACHER LTDA",
+    "qtd_salas": 23,
+    "total_assentos": 3421,
+    "score_infra_medio": 0.4493,
+    "score_capacidade_medio": 0.1785
+  },
+  {
+    "NOME_EXIBIDOR": "CINE GUARANTA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 110,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1866
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CASCAVEL LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 521,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2389
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CINEMAS LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 643,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.398
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CINEMAS NORDESTE LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 658,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1499
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CINEMAS PONTA GROSSA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 509,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.6093
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CINEMAS UMUARAMA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 608,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1759
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER CUIABA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 643,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2011
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER LAGARTO LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 380,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4114
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER NORTE CINEMA LTDA",
+    "qtd_salas": 7,
+    "total_assentos": 889,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.183
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER PORTO VELHO CINEMAS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 374,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2548
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER SUL LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 879,
+    "score_infra_medio": 0.6,
+    "score_capacidade_medio": 0.1209
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LASER TANGARA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 215,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2399
+  },
+  {
+    "NOME_EXIBIDOR": "CINE LOCANDA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 85,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.0706
+  },
+  {
+    "NOME_EXIBIDOR": "CINE MAX BRASIL LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 300,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.68
+  },
+  {
+    "NOME_EXIBIDOR": "CINE MENDES EXIBIDORA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 367,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1531
+  },
+  {
+    "NOME_EXIBIDOR": "CINE QUINZE CINEMAS LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 796,
+    "score_infra_medio": 0.5833,
+    "score_capacidade_medio": 0.3274
+  },
+  {
+    "NOME_EXIBIDOR": "CINE RITZ DIVINÓPOLIS LTDA. - EPP",
+    "qtd_salas": 5,
+    "total_assentos": 721,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.1049
+  },
+  {
+    "NOME_EXIBIDOR": "CINE RITZ PARÁ DE MINAS LTDA.",
+    "qtd_salas": 3,
+    "total_assentos": 753,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.1978
+  },
+  {
+    "NOME_EXIBIDOR": "CINE SANTA CRUZ LTDA - ME",
+    "qtd_salas": 2,
+    "total_assentos": 288,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1227
+  },
+  {
+    "NOME_EXIBIDOR": "CINE SÃO MATEUS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 440,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.142
+  },
+  {
+    "NOME_EXIBIDOR": "CINE SÃO ROQUE DIVERSÕES LTDA - ME",
+    "qtd_salas": 2,
+    "total_assentos": 270,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1405
+  },
+  {
+    "NOME_EXIBIDOR": "CINE TEATRO CIANORTE LTDA -ME",
+    "qtd_salas": 1,
+    "total_assentos": 430,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0292
+  },
+  {
+    "NOME_EXIBIDOR": "CINE TEATRO PEPERI LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 454,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2489
+  },
+  {
+    "NOME_EXIBIDOR": "CINE TEATRO SHOPPING SÃO PEDRO LTDA-ME",
+    "qtd_salas": 5,
+    "total_assentos": 558,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3762
+  },
+  {
+    "NOME_EXIBIDOR": "CINE TORRES LTDA - ME",
+    "qtd_salas": 2,
+    "total_assentos": 194,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.2616
+  },
+  {
+    "NOME_EXIBIDOR": "CINE VALLEY EXIBICOES CINEMATOGRAFICAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 333,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.151
+  },
+  {
+    "NOME_EXIBIDOR": "CINE VEREDAS BOULEVARD LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 415,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1049
+  },
+  {
+    "NOME_EXIBIDOR": "CINE XIN CINEMA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1674
+  },
+  {
+    "NOME_EXIBIDOR": "CINE XIN LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 570,
+    "score_infra_medio": 0.8333,
+    "score_capacidade_medio": 0.1677
+  },
+  {
+    "NOME_EXIBIDOR": "CINE XTREME EUNAPOLIS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 280,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2055
+  },
+  {
+    "NOME_EXIBIDOR": "CINE XTREME PAULO AFONSO LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 290,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2508
+  },
+  {
+    "NOME_EXIBIDOR": "CINECLUBE TORRES",
+    "qtd_salas": 1,
+    "total_assentos": 120,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3333
+  },
+  {
+    "NOME_EXIBIDOR": "CINEFLEXX LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 273,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1855
+  },
+  {
+    "NOME_EXIBIDOR": "CINELAND CN EXIBICAO CINEMATOGRAFICA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 120,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.3092
+  },
+  {
+    "NOME_EXIBIDOR": "CINELAND EXIBICAO CINEMATOGRAFICA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 120,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4184
+  },
+  {
+    "NOME_EXIBIDOR": "CINELUZ CINEMA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 247,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2264
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMA ARTEPLEX LTDA.",
+    "qtd_salas": 5,
+    "total_assentos": 749,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2131
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMA E ARTE PRODUÇÕES LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 519,
+    "score_infra_medio": 0.4,
+    "score_capacidade_medio": 0.2072
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMA E BOMBONIERE ROXY LTDA ME",
+    "qtd_salas": 5,
+    "total_assentos": 1203,
+    "score_infra_medio": 0.4,
+    "score_capacidade_medio": 0.2294
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMA SALA 1 LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 123,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1508
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAIS CINEMAS LTDA",
+    "qtd_salas": 45,
+    "total_assentos": 8062,
+    "score_infra_medio": 0.6296,
+    "score_capacidade_medio": 0.1492
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMARK BRASIL S.A",
+    "qtd_salas": 448,
+    "total_assentos": 99574,
+    "score_infra_medio": 0.628,
+    "score_capacidade_medio": 0.1961
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAS ALVORADA DIVERSÕES LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 234,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.188
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAS HENKES E HENKES LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 326,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2001
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAS HENKES RIBEIRO LTDA ME",
+    "qtd_salas": 1,
+    "total_assentos": 91,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1379
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAS PARIS SEVERIANO RIBEIRO LTDA",
+    "qtd_salas": 10,
+    "total_assentos": 1367,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2308
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAS UNIPLEX LTDA",
+    "qtd_salas": 29,
+    "total_assentos": 5013,
+    "score_infra_medio": 0.6322,
+    "score_capacidade_medio": 0.13
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRAFIA CENTER POWER SHOPPING LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 90,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2789
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRAFICA ARACRUZ LTDA ME",
+    "qtd_salas": 2,
+    "total_assentos": 240,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.0788
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRAFICA BOITUVA LTDA ME",
+    "qtd_salas": 3,
+    "total_assentos": 553,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.156
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRAFICA CACHOEIRO LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 629,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2347
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRAFICA MAJO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 200,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1255
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFIA ITABIRA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 220,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1141
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA DIAMANTINA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 240,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1046
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA GUARAPARI LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 478,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1665
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA ITAPERUNA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 400,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1307
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA JARAGUÁ LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 746,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1479
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA JARDINS LTDA ME",
+    "qtd_salas": 2,
+    "total_assentos": 249,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.3333
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA JOÃO MONLEVADE LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 410,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1302
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA LAFAIETE LTDA.",
+    "qtd_salas": 2,
+    "total_assentos": 383,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1347
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA MARATAÍZES LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 367,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4576
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA MARIANA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 190,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1321
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA MEYER LTDA - ME",
+    "qtd_salas": 1,
+    "total_assentos": 172,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.073
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA OURO BRANCO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 176,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.1538
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA PASSOS LTDA",
+    "qtd_salas": 19,
+    "total_assentos": 3302,
+    "score_infra_medio": 0.2105,
+    "score_capacidade_medio": 0.1277
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMATOGRÁFICA PIÚMA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 156,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4563
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAX CINEMA CANOINHAS LTDA-ME",
+    "qtd_salas": 1,
+    "total_assentos": 134,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.4376
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAX CINEMAS FRANCISCO BELTRAO LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 462,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.1597
+  },
+  {
+    "NOME_EXIBIDOR": "CINEMAX XINGUARA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 226,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.5033
+  },
+  {
+    "NOME_EXIBIDOR": "CINEPASS CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 399,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.0799
+  },
+  {
+    "NOME_EXIBIDOR": "CINEPLUS PRODUÇÕES ARTISTICAS E CINEMA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 717,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.2263
+  },
+  {
+    "NOME_EXIBIDOR": "CINEPOLIS OPERADORA DE CINEMAS DO BRASIL LTDA",
+    "qtd_salas": 257,
+    "total_assentos": 52680,
+    "score_infra_medio": 0.6278,
+    "score_capacidade_medio": 0.2221
+  },
+  {
+    "NOME_EXIBIDOR": "CINESTAR CINEMA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 422,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.179
+  },
+  {
+    "NOME_EXIBIDOR": "CINEVISION CORUMBA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 174,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1261
+  },
+  {
+    "NOME_EXIBIDOR": "CIRCUITO ENTRETENIMENTO E CINEMAS LTDA",
+    "qtd_salas": 18,
+    "total_assentos": 2750,
+    "score_infra_medio": 0.4074,
+    "score_capacidade_medio": 0.2185
+  },
+  {
+    "NOME_EXIBIDOR": "COMPLEXO ITAIM PAULISTA DE CINEMAS EIRELI-ME",
+    "qtd_salas": 5,
+    "total_assentos": 732,
+    "score_infra_medio": 0.5333,
+    "score_capacidade_medio": 0.1947
+  },
+  {
+    "NOME_EXIBIDOR": "CRYK CINEMA ARARUAMA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 381,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2761
+  },
+  {
+    "NOME_EXIBIDOR": "CRYK CINEMA BACAXA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 367,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1798
+  },
+  {
+    "NOME_EXIBIDOR": "CRYK CINEMA RIO DAS OSTRAS LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 751,
+    "score_infra_medio": 0.5333,
+    "score_capacidade_medio": 0.2009
+  },
+  {
+    "NOME_EXIBIDOR": "CULT CINEMAS ALEGRETE LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 154,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2317
+  },
+  {
+    "NOME_EXIBIDOR": "CULT CINEMAS SANTIAGO",
+    "qtd_salas": 1,
+    "total_assentos": 194,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2645
+  },
+  {
+    "NOME_EXIBIDOR": "CULT CINEMAS SAO BORJA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 174,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1756
+  },
+  {
+    "NOME_EXIBIDOR": "CURITIBA ARTE - INSTITUTO CURITIBA DE ARTE E CULTURA",
+    "qtd_salas": 4,
+    "total_assentos": 593,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2674
+  },
+  {
+    "NOME_EXIBIDOR": "CWB CINEMAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 275,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1755
+  },
+  {
+    "NOME_EXIBIDOR": "DB BOTELHO CINEMAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 418,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.0574
+  },
+  {
+    "NOME_EXIBIDOR": "DELTA FILMES LTDA",
+    "qtd_salas": 36,
+    "total_assentos": 7043,
+    "score_infra_medio": 0.5463,
+    "score_capacidade_medio": 0.2488
+  },
+  {
+    "NOME_EXIBIDOR": "DIAS CINEMATOGRAFICA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 157,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1141
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CENTERPLEX DE CINEMAS LTDA",
+    "qtd_salas": 10,
+    "total_assentos": 2117,
+    "score_infra_medio": 0.6333,
+    "score_capacidade_medio": 0.4913
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMAS SÃO LUIZ S/A",
+    "qtd_salas": 129,
+    "total_assentos": 26863,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1842
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRAFICA BOMBOCINE LTDA",
+    "qtd_salas": 86,
+    "total_assentos": 13856,
+    "score_infra_medio": 0.6279,
+    "score_capacidade_medio": 0.1997
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRAFICA FORMOSA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 700,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4619
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRÁFICA ARAUJO LTDA",
+    "qtd_salas": 7,
+    "total_assentos": 1471,
+    "score_infra_medio": 0.4762,
+    "score_capacidade_medio": 0.208
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRÁFICA ARAÇATUBA LTDA",
+    "qtd_salas": 19,
+    "total_assentos": 4955,
+    "score_infra_medio": 0.3684,
+    "score_capacidade_medio": 0.1302
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRÁFICA ESTAÇÃO LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 308,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.2761
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRÁFICA IPATINGA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 660,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1613
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA CINEMATOGRÁFICA REPUBLICA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 252,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2209
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA DE CINEMA E AUDIOVISUAL DE SÃO PAULO S.A.",
+    "qtd_salas": 32,
+    "total_assentos": 9021,
+    "score_infra_medio": 0.6562,
+    "score_capacidade_medio": 0.1318
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA DE CINEMAS ARCOPLEX S.A",
+    "qtd_salas": 12,
+    "total_assentos": 2387,
+    "score_infra_medio": 0.6389,
+    "score_capacidade_medio": 0.277
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA DE CINEMAS FORTALEZA LTDA",
+    "qtd_salas": 19,
+    "total_assentos": 3899,
+    "score_infra_medio": 0.6491,
+    "score_capacidade_medio": 0.2942
+  },
+  {
+    "NOME_EXIBIDOR": "EMPRESA DE CINEMAS SERCLA LTDA",
+    "qtd_salas": 14,
+    "total_assentos": 1955,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.2235
+  },
+  {
+    "NOME_EXIBIDOR": "ESPAÇO CULTURAL DE CINEMA DE SALVADOR LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 637,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1051
+  },
+  {
+    "NOME_EXIBIDOR": "ESPAÇO DE CINEMA SUL LTDA",
+    "qtd_salas": 6,
+    "total_assentos": 1566,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1304
+  },
+  {
+    "NOME_EXIBIDOR": "ESQ ENTRETENIMENTOS LTDA.",
+    "qtd_salas": 1,
+    "total_assentos": 146,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1092
+  },
+  {
+    "NOME_EXIBIDOR": "ESTAÇÃO CINEMA E CULTURA LTDA",
+    "qtd_salas": 10,
+    "total_assentos": 989,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3768
+  },
+  {
+    "NOME_EXIBIDOR": "ESTILO PRODUÇÕES ARTISTICAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 303,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2995
+  },
+  {
+    "NOME_EXIBIDOR": "EWERTON LUIS DE SOUZA BRANDOLT",
+    "qtd_salas": 3,
+    "total_assentos": 558,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1351
+  },
+  {
+    "NOME_EXIBIDOR": "EXIBIDORA NACIONAL DE FILMES LTDA",
+    "qtd_salas": 15,
+    "total_assentos": 2750,
+    "score_infra_medio": 0.4667,
+    "score_capacidade_medio": 0.1161
+  },
+  {
+    "NOME_EXIBIDOR": "F. J. CINES LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 600,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1255
+  },
+  {
+    "NOME_EXIBIDOR": "FREDERICO DA CRUZ MACHADO - ME",
+    "qtd_salas": 2,
+    "total_assentos": 453,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0935
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDACAO MUNICIPAL DE CULTURA, LAZER E TURISMO - FUMCULT",
+    "qtd_salas": 1,
+    "total_assentos": 339,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1285
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO CULTURAL DE PALMAS - FCP",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1674
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO CULTURAL DO ESTADO DA BAHIA",
+    "qtd_salas": 1,
+    "total_assentos": 200,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1195
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO CULTURAL SENHOR BOM JESUS DOS REMEDIOS",
+    "qtd_salas": 1,
+    "total_assentos": 220,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3918
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO DE APOIO AO DESENVOLVIMENTO DA UFPE",
+    "qtd_salas": 1,
+    "total_assentos": 178,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.13
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO DE CULTURA CIDADE DO RECIFE",
+    "qtd_salas": 1,
+    "total_assentos": 638,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1242
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO ESPAÇO CULTURAL DA PARAÍBA FUNESC",
+    "qtd_salas": 1,
+    "total_assentos": 120,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.271
+  },
+  {
+    "NOME_EXIBIDOR": "FUNDAÇÃO JOAQUIM NABUCO",
+    "qtd_salas": 3,
+    "total_assentos": 468,
+    "score_infra_medio": 0.5556,
+    "score_capacidade_medio": 0.2027
+  },
+  {
+    "NOME_EXIBIDOR": "FVL EMPRESA CINEMATOGRAFICA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 397,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2698
+  },
+  {
+    "NOME_EXIBIDOR": "G M Z EMPRESA DE CINEMAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 304,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.1182
+  },
+  {
+    "NOME_EXIBIDOR": "GEFA COMERCIO E ENTRETENIMENTO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 211,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1137
+  },
+  {
+    "NOME_EXIBIDOR": "GF ANDRADE ENTRETENIMENTO E COMÉRCIO LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 583,
+    "score_infra_medio": 0.4,
+    "score_capacidade_medio": 0.118
+  },
+  {
+    "NOME_EXIBIDOR": "GMF PRODUÇÕES ARTISTICAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 410,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.1399
+  },
+  {
+    "NOME_EXIBIDOR": "GREMIO ARTISTICO E CULTURAL EDMUNDO DE MACEDO SOARES E SILVA",
+    "qtd_salas": 1,
+    "total_assentos": 418,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1775
+  },
+  {
+    "NOME_EXIBIDOR": "GUAXUPE PROMOCOES E EVENTOS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 352,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1643
+  },
+  {
+    "NOME_EXIBIDOR": "GUSGLAU CINE TEATRO GLÓRIA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 300,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1883
+  },
+  {
+    "NOME_EXIBIDOR": "H.C. DA GRAÇA & CIA LTDA ME",
+    "qtd_salas": 3,
+    "total_assentos": 355,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.412
+  },
+  {
+    "NOME_EXIBIDOR": "HADDAD - EMPREENDIMENTOS CINEMATOGRAFICOS E ARTISTICOS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 120,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3092
+  },
+  {
+    "NOME_EXIBIDOR": "HENKES E RIBEIRO BARREIRAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 301,
+    "score_infra_medio": 0.1667,
+    "score_capacidade_medio": 0.2513
+  },
+  {
+    "NOME_EXIBIDOR": "INSTITUTO AUDIOVISUAL MULHERES DE ODUN",
+    "qtd_salas": 1,
+    "total_assentos": 48,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.166
+  },
+  {
+    "NOME_EXIBIDOR": "INSTITUTO DRAGAO DO MAR",
+    "qtd_salas": 4,
+    "total_assentos": 1393,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1388
+  },
+  {
+    "NOME_EXIBIDOR": "INSTITUTO MOREIRA SALLES",
+    "qtd_salas": 2,
+    "total_assentos": 236,
+    "score_infra_medio": 0.1667,
+    "score_capacidade_medio": 0.2488
+  },
+  {
+    "NOME_EXIBIDOR": "INSTITUTO OSWALDO RIBEIRO DE MENDONÇA",
+    "qtd_salas": 1,
+    "total_assentos": 122,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2012
+  },
+  {
+    "NOME_EXIBIDOR": "INSTITUTO PARADIGMA CINE ARTE",
+    "qtd_salas": 1,
+    "total_assentos": 114,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1676
+  },
+  {
+    "NOME_EXIBIDOR": "J B PINHEIRO ALVES JUNIOR - ME",
+    "qtd_salas": 9,
+    "total_assentos": 1059,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1265
+  },
+  {
+    "NOME_EXIBIDOR": "J J DE M SILVA",
+    "qtd_salas": 2,
+    "total_assentos": 194,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.28
+  },
+  {
+    "NOME_EXIBIDOR": "J L SANTANA CRUZ CINEMA",
+    "qtd_salas": 1,
+    "total_assentos": 190,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0976
+  },
+  {
+    "NOME_EXIBIDOR": "J M KIMAK E CIA LTDA",
+    "qtd_salas": 5,
+    "total_assentos": 693,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2649
+  },
+  {
+    "NOME_EXIBIDOR": "JJCINEMAS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 131,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2332
+  },
+  {
+    "NOME_EXIBIDOR": "JOAQUIM QUADROS LEITE LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 198,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1268
+  },
+  {
+    "NOME_EXIBIDOR": "JOSUE´S CINE & FOTO LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 263,
+    "score_infra_medio": 0.5,
+    "score_capacidade_medio": 0.1991
+  },
+  {
+    "NOME_EXIBIDOR": "JOSUÉ´S CINE ARCOS LTDA.",
+    "qtd_salas": 1,
+    "total_assentos": 130,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2234
+  },
+  {
+    "NOME_EXIBIDOR": "JOSUÉ´S CINE HOTEL FAZENDA SOBRADINHO LTDA-ME",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.3872
+  },
+  {
+    "NOME_EXIBIDOR": "JUBARTE FILMES LTDA-ME",
+    "qtd_salas": 4,
+    "total_assentos": 693,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2972
+  },
+  {
+    "NOME_EXIBIDOR": "KOMPANHIA TEATRO MULTIMÍDIA DE SÃO PAULO",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.12
+  },
+  {
+    "NOME_EXIBIDOR": "LACERDA E RAMALHO LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 220,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.0545
+  },
+  {
+    "NOME_EXIBIDOR": "LANCHES ALAMEDA QUALITY CENTER LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 540,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.338
+  },
+  {
+    "NOME_EXIBIDOR": "LB CINEMAS LTDA",
+    "qtd_salas": 18,
+    "total_assentos": 2811,
+    "score_infra_medio": 0.6111,
+    "score_capacidade_medio": 0.1703
+  },
+  {
+    "NOME_EXIBIDOR": "LCA CINE DIVERSÕES LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 394,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1773
+  },
+  {
+    "NOME_EXIBIDOR": "LEMOS & MORAIS LTDA - ME",
+    "qtd_salas": 3,
+    "total_assentos": 325,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.4068
+  },
+  {
+    "NOME_EXIBIDOR": "LILIANE ROCHA DE MEDEIROS GUEDES-ME",
+    "qtd_salas": 3,
+    "total_assentos": 526,
+    "score_infra_medio": 0.5556,
+    "score_capacidade_medio": 0.1168
+  },
+  {
+    "NOME_EXIBIDOR": "LOMBARDI E RESENDE CINEMAS LTDA ME",
+    "qtd_salas": 1,
+    "total_assentos": 145,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1507
+  },
+  {
+    "NOME_EXIBIDOR": "LT3 STUDIOS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 35,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.7792
+  },
+  {
+    "NOME_EXIBIDOR": "LUCIANE DE ALMEIDA ARRUDA CAMPOS CINEMA ME",
+    "qtd_salas": 1,
+    "total_assentos": 154,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1035
+  },
+  {
+    "NOME_EXIBIDOR": "LUI CINEMATOGRÁFICA LTDA.",
+    "qtd_salas": 9,
+    "total_assentos": 1336,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2228
+  },
+  {
+    "NOME_EXIBIDOR": "MASTERCINE CINEMAS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 290,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1882
+  },
+  {
+    "NOME_EXIBIDOR": "MAURICIO JOSE NICOLINO & CIA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 444,
+    "score_infra_medio": 0.2222,
+    "score_capacidade_medio": 0.2653
+  },
+  {
+    "NOME_EXIBIDOR": "MAXI CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 6,
+    "total_assentos": 1524,
+    "score_infra_medio": 0.3889,
+    "score_capacidade_medio": 0.1059
+  },
+  {
+    "NOME_EXIBIDOR": "MB EXIBICOES CINEMATOGRAFICAS SENADOR LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1674
+  },
+  {
+    "NOME_EXIBIDOR": "MF 3000 - EMPREENDIMENTOS E PARTICIPAÇÕES LTDA-ME",
+    "qtd_salas": 5,
+    "total_assentos": 870,
+    "score_infra_medio": 0.4,
+    "score_capacidade_medio": 0.1478
+  },
+  {
+    "NOME_EXIBIDOR": "MINAS TÊNIS CLUBE",
+    "qtd_salas": 1,
+    "total_assentos": 41,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.3061
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIE ARTE CINEMAS LTDA",
+    "qtd_salas": 6,
+    "total_assentos": 861,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1684
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIE CINEMAS LTDA",
+    "qtd_salas": 44,
+    "total_assentos": 7340,
+    "score_infra_medio": 0.447,
+    "score_capacidade_medio": 0.1957
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIECINE EMPRESA CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 110,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2282
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIEPASS CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 938,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1385
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIEPLACE EMPRESA DE CINEMAS LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 580,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3648
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIEPLEX ENTRETENIMENTO LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 306,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4344
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIEPLEX ENTRETENIMENTO LTDA -ME",
+    "qtd_salas": 2,
+    "total_assentos": 253,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2601
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIEPLEX TIMON LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 583,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1732
+  },
+  {
+    "NOME_EXIBIDOR": "MOVIESYSTEM CINEMATOGRAFICA LTDA",
+    "qtd_salas": 89,
+    "total_assentos": 14925,
+    "score_infra_medio": 0.6479,
+    "score_capacidade_medio": 0.238
+  },
+  {
+    "NOME_EXIBIDOR": "MSA EMPRESA CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 116,
+    "total_assentos": 25633,
+    "score_infra_medio": 0.5489,
+    "score_capacidade_medio": 0.1794
+  },
+  {
+    "NOME_EXIBIDOR": "MULTICINE CINEMAS LTDA",
+    "qtd_salas": 30,
+    "total_assentos": 4879,
+    "score_infra_medio": 0.6444,
+    "score_capacidade_medio": 0.0779
+  },
+  {
+    "NOME_EXIBIDOR": "MULTIPLEX DO BRASIL ENTRETENIMENTO LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 764,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.293
+  },
+  {
+    "NOME_EXIBIDOR": "MUNICIPIO DE CAXIAS DO SUL",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.8636
+  },
+  {
+    "NOME_EXIBIDOR": "MUNICÍPIO DE ASSIS",
+    "qtd_salas": 1,
+    "total_assentos": 540,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2106
+  },
+  {
+    "NOME_EXIBIDOR": "MUNICÍPIO DE CAFELÂNDIA (SP)",
+    "qtd_salas": 1,
+    "total_assentos": 208,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2099
+  },
+  {
+    "NOME_EXIBIDOR": "MUNICÍPIO DE SUZANO",
+    "qtd_salas": 1,
+    "total_assentos": 96,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2615
+  },
+  {
+    "NOME_EXIBIDOR": "NEO ENTRETENIMENTOS EMPRESARIAIS LTDA",
+    "qtd_salas": 11,
+    "total_assentos": 1651,
+    "score_infra_medio": 0.2424,
+    "score_capacidade_medio": 0.1285
+  },
+  {
+    "NOME_EXIBIDOR": "NOEL LAZARO TAUFIC - CINEMA - ME",
+    "qtd_salas": 2,
+    "total_assentos": 350,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1932
+  },
+  {
+    "NOME_EXIBIDOR": "NUCLEO CINEMAS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 583,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.2145
+  },
+  {
+    "NOME_EXIBIDOR": "P.M.C. CINEMAS DO BRASIL LTDA",
+    "qtd_salas": 10,
+    "total_assentos": 1891,
+    "score_infra_medio": 0.6333,
+    "score_capacidade_medio": 0.1269
+  },
+  {
+    "NOME_EXIBIDOR": "PATOS MULTIPLEX LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 358,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2223
+  },
+  {
+    "NOME_EXIBIDOR": "PATROCINEMA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 473,
+    "score_infra_medio": 0.5556,
+    "score_capacidade_medio": 0.4909
+  },
+  {
+    "NOME_EXIBIDOR": "PLAYARTE CINEMAS LTDA.",
+    "qtd_salas": 2,
+    "total_assentos": 317,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2341
+  },
+  {
+    "NOME_EXIBIDOR": "PNP SUL LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 477,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2427
+  },
+  {
+    "NOME_EXIBIDOR": "PONTE NOVA CINEMA LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 100,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.251
+  },
+  {
+    "NOME_EXIBIDOR": "PORTAL CINE - LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 96,
+    "score_infra_medio": 0.0,
+    "score_capacidade_medio": 0.2615
+  },
+  {
+    "NOME_EXIBIDOR": "PORTO SEGURO SHOPPING LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 126,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2788
+  },
+  {
+    "NOME_EXIBIDOR": "PRAIA DE BELAS EMPREENDIMENTOS CINEMATOGRÁFICOS LTDA",
+    "qtd_salas": 18,
+    "total_assentos": 4152,
+    "score_infra_medio": 0.5741,
+    "score_capacidade_medio": 0.2126
+  },
+  {
+    "NOME_EXIBIDOR": "PROMOVE ADMINISTRACAO E REALIZACOES LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 109,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2303
+  },
+  {
+    "NOME_EXIBIDOR": "PSICADEIRO PRODUÇÕES EDUCATIVAS E ARTÍSTICAS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 70,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.6667
+  },
+  {
+    "NOME_EXIBIDOR": "QL ENTRETENIMENTOS LTDA ME",
+    "qtd_salas": 1,
+    "total_assentos": 154,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.163
+  },
+  {
+    "NOME_EXIBIDOR": "QUELIPE ENTRETENIMENTOS LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1674
+  },
+  {
+    "NOME_EXIBIDOR": "R.P. MARTINS",
+    "qtd_salas": 3,
+    "total_assentos": 302,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.2666
+  },
+  {
+    "NOME_EXIBIDOR": "RAYL EMPRESA CINEMATOGRAFICA LP LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 334,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1595
+  },
+  {
+    "NOME_EXIBIDOR": "RAYL EMPRESA CINEMATOGRAFICA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 723,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.151
+  },
+  {
+    "NOME_EXIBIDOR": "REDE CIDADE DE COMUNICACAO E CIDADANIA",
+    "qtd_salas": 1,
+    "total_assentos": 20,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.7594
+  },
+  {
+    "NOME_EXIBIDOR": "REDE CINEMATOGRÁFICA DE CINEMAS PREMIUM LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 170,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2888
+  },
+  {
+    "NOME_EXIBIDOR": "REDECINE - RIO CINEMATOGRAFICA S.A.",
+    "qtd_salas": 34,
+    "total_assentos": 6705,
+    "score_infra_medio": 0.4706,
+    "score_capacidade_medio": 0.169
+  },
+  {
+    "NOME_EXIBIDOR": "REDECINE BRA CINEMATOGRÁFICA S.A.",
+    "qtd_salas": 96,
+    "total_assentos": 20390,
+    "score_infra_medio": 0.5347,
+    "score_capacidade_medio": 0.2556
+  },
+  {
+    "NOME_EXIBIDOR": "REDECINE CATARINA CINEMATOGRAFICA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 376,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1901
+  },
+  {
+    "NOME_EXIBIDOR": "REDECINE TOTAL CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 815,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3125
+  },
+  {
+    "NOME_EXIBIDOR": "RESERVA CULTURAL DE CINEMA LTDA.",
+    "qtd_salas": 9,
+    "total_assentos": 1257,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1564
+  },
+  {
+    "NOME_EXIBIDOR": "ROBERTA GORNISKI",
+    "qtd_salas": 1,
+    "total_assentos": 135,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2643
+  },
+  {
+    "NOME_EXIBIDOR": "RR2 CINEMATOGRAFIA LTDA",
+    "qtd_salas": 9,
+    "total_assentos": 1278,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1861
+  },
+  {
+    "NOME_EXIBIDOR": "S.L. MILANI CINE E VIDEO",
+    "qtd_salas": 1,
+    "total_assentos": 113,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1236
+  },
+  {
+    "NOME_EXIBIDOR": "SBPO ENTRETENIMENTOS LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 268,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1885
+  },
+  {
+    "NOME_EXIBIDOR": "SECRETARIA DE ESTADO DA CULTURA DE GOIÁS",
+    "qtd_salas": 2,
+    "total_assentos": 347,
+    "score_infra_medio": 0.8333,
+    "score_capacidade_medio": 0.1538
+  },
+  {
+    "NOME_EXIBIDOR": "SECRETARIA DE ESTADO DE CULTURA DO DISTRITO FEDERAL",
+    "qtd_salas": 1,
+    "total_assentos": 619,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1481
+  },
+  {
+    "NOME_EXIBIDOR": "SERGIO MAURILIO DA SILVA GONCALVES & CIA LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 306,
+    "score_infra_medio": 0.8333,
+    "score_capacidade_medio": 0.2369
+  },
+  {
+    "NOME_EXIBIDOR": "SERRA CINE LTDA.",
+    "qtd_salas": 1,
+    "total_assentos": 180,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.712
+  },
+  {
+    "NOME_EXIBIDOR": "SERVICO SOCIAL DO COMERCIO - SESC - ADMINISTRACAO REGIONAL NO ESTADO DE SAO PAULO",
+    "qtd_salas": 1,
+    "total_assentos": 279,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1995
+  },
+  {
+    "NOME_EXIBIDOR": "SERVICO SOCIAL DO COMERCIO - SESC/AP/PA",
+    "qtd_salas": 1,
+    "total_assentos": 45,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.2789
+  },
+  {
+    "NOME_EXIBIDOR": "SERVIÇO SOCIAL DO COMÉRCIO - SESC",
+    "qtd_salas": 1,
+    "total_assentos": 148,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1349
+  },
+  {
+    "NOME_EXIBIDOR": "SESC SERVIÇO SOCIAL DO COMERCIO - SESC",
+    "qtd_salas": 1,
+    "total_assentos": 95,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.3882
+  },
+  {
+    "NOME_EXIBIDOR": "SG SERVICOS INTELIGENTES LTDA",
+    "qtd_salas": 1,
+    "total_assentos": 84,
+    "score_infra_medio": 0.3333,
+    "score_capacidade_medio": 0.1429
+  },
+  {
+    "NOME_EXIBIDOR": "SHARKCINE LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 535,
+    "score_infra_medio": 0.2222,
+    "score_capacidade_medio": 0.2221
+  },
+  {
+    "NOME_EXIBIDOR": "SHOPPING CENTER COSTA DOURADA S/A",
+    "qtd_salas": 3,
+    "total_assentos": 504,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1194
+  },
+  {
+    "NOME_EXIBIDOR": "SOFF CINE ENTRETENIMENTO LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 344,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1463
+  },
+  {
+    "NOME_EXIBIDOR": "SR RIO DE JANEIRO CINEMAS S/A",
+    "qtd_salas": 12,
+    "total_assentos": 2073,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.217
+  },
+  {
+    "NOME_EXIBIDOR": "SR SÃO PAULO CINEMAS S/A",
+    "qtd_salas": 6,
+    "total_assentos": 900,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1753
+  },
+  {
+    "NOME_EXIBIDOR": "SRS PLANET CINEMAS LTDA",
+    "qtd_salas": 6,
+    "total_assentos": 757,
+    "score_infra_medio": 0.0556,
+    "score_capacidade_medio": 0.2373
+  },
+  {
+    "NOME_EXIBIDOR": "TATU FILMES LTDA",
+    "qtd_salas": 51,
+    "total_assentos": 8870,
+    "score_infra_medio": 0.6405,
+    "score_capacidade_medio": 0.3635
+  },
+  {
+    "NOME_EXIBIDOR": "TEATRO DOM BOSCO",
+    "qtd_salas": 1,
+    "total_assentos": 300,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1829
+  },
+  {
+    "NOME_EXIBIDOR": "UCI RIBEIRO LTDA",
+    "qtd_salas": 51,
+    "total_assentos": 10998,
+    "score_infra_medio": 0.549,
+    "score_capacidade_medio": 0.2044
+  },
+  {
+    "NOME_EXIBIDOR": "UCI-ORIENT LTDA",
+    "qtd_salas": 22,
+    "total_assentos": 5290,
+    "score_infra_medio": 0.5303,
+    "score_capacidade_medio": 0.2183
+  },
+  {
+    "NOME_EXIBIDOR": "ULTRAVISÃO CINEMAS E ENTRETENIMENTO LTDA.",
+    "qtd_salas": 4,
+    "total_assentos": 409,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.4623
+  },
+  {
+    "NOME_EXIBIDOR": "UNITED CINEMAS INTERNATIONAL BRASIL LTDA.",
+    "qtd_salas": 117,
+    "total_assentos": 25660,
+    "score_infra_medio": 0.6182,
+    "score_capacidade_medio": 0.2148
+  },
+  {
+    "NOME_EXIBIDOR": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+    "qtd_salas": 1,
+    "total_assentos": 144,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0137
+  },
+  {
+    "NOME_EXIBIDOR": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+    "qtd_salas": 1,
+    "total_assentos": 393,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.5322
+  },
+  {
+    "NOME_EXIBIDOR": "UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO",
+    "qtd_salas": 1,
+    "total_assentos": 240,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0
+  },
+  {
+    "NOME_EXIBIDOR": "UNIVERSIDADE FEDERAL FLUMINENSE",
+    "qtd_salas": 1,
+    "total_assentos": 293,
+    "score_infra_medio": 1.0,
+    "score_capacidade_medio": 0.1285
+  },
+  {
+    "NOME_EXIBIDOR": "VIA SUL CINEMATOGRÁFICA LTDA",
+    "qtd_salas": 4,
+    "total_assentos": 894,
+    "score_infra_medio": 0.5833,
+    "score_capacidade_medio": 0.1282
+  },
+  {
+    "NOME_EXIBIDOR": "VICTORY EVENTOS & TURISMO LTDA",
+    "qtd_salas": 2,
+    "total_assentos": 255,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.0944
+  },
+  {
+    "NOME_EXIBIDOR": "VITOMAQ PRODUÇÕES ARTISTICAS E CINEMA LTDA - ME",
+    "qtd_salas": 6,
+    "total_assentos": 1241,
+    "score_infra_medio": 0.4444,
+    "score_capacidade_medio": 0.1871
+  },
+  {
+    "NOME_EXIBIDOR": "VIVA COPAN ENTRETENIMENTO E ADMINISTRACAO LTDA.",
+    "qtd_salas": 1,
+    "total_assentos": 300,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.331
+  },
+  {
+    "NOME_EXIBIDOR": "WELLINGTON CARDOSO DA LUZ CINEMAS LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 347,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1655
+  },
+  {
+    "NOME_EXIBIDOR": "WEST CINE LTDA",
+    "qtd_salas": 3,
+    "total_assentos": 571,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.1321
+  },
+  {
+    "NOME_EXIBIDOR": "WILDE MARIA PEREIRA DOS SANTOS QUADROS - ME",
+    "qtd_salas": 1,
+    "total_assentos": 150,
+    "score_infra_medio": 0.6667,
+    "score_capacidade_medio": 0.3084
+  }
+]
