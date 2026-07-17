@@ -36,7 +36,7 @@ function inicializarFunil(dadosFunil, tooltip) {
         ];
     }
 
-    const corEtapa = d3.scaleSequential(d3.interpolateOranges).domain([-1, etapas.length]);
+    const corEtapa = d3.scaleSequential(d3.interpolateBlues).domain([-1, etapas.length]);
 
     svg.selectAll(".segmento-funil")
         .data(etapas.slice(0, -1)) 
