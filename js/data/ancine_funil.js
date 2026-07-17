@@ -1,0 +1,56 @@
+const DADOS_FUNIL = {
+    "total_salas": 2608,
+    "step_banheiro_acessivel": 1986,
+    "step_rampa_sala": 507,
+    "step_rampa_assentos": 2142,
+    "todas_combinacoes": [
+        {
+            "banheiro": 0,
+            "rampa_sala": 0,
+            "rampa_assentos": 0,
+            "count": 114
+        },
+        {
+            "banheiro": 0,
+            "rampa_sala": 0,
+            "rampa_assentos": 1,
+            "count": 59
+        },
+        {
+            "banheiro": 0,
+            "rampa_sala": 1,
+            "rampa_assentos": 0,
+            "count": 26
+        },
+        {
+            "banheiro": 0,
+            "rampa_sala": 1,
+            "rampa_assentos": 1,
+            "count": 423
+        },
+        {
+            "banheiro": 1,
+            "rampa_sala": 0,
+            "rampa_assentos": 0,
+            "count": 313
+        },
+        {
+            "banheiro": 1,
+            "rampa_sala": 0,
+            "rampa_assentos": 1,
+            "count": 1615
+        },
+        {
+            "banheiro": 1,
+            "rampa_sala": 1,
+            "rampa_assentos": 0,
+            "count": 13
+        },
+        {
+            "banheiro": 1,
+            "rampa_sala": 1,
+            "rampa_assentos": 1,
+            "count": 45
+        }
+    ]
+};
