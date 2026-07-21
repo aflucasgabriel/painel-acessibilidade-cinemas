@@ -5,6 +5,8 @@ function inicializarFunil(dadosFunil, tooltip) {
     const margin = { top: 40, right: 20, bottom: 40, left: 20 };
     const width = containerWidth - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
+    const larguraMaxima = Math.min(width * 0.68, 300);
+    const centroX = width / 2;
 
     const svg = container.append("svg")
         .attr("width", containerWidth)
@@ -14,7 +16,6 @@ function inicializarFunil(dadosFunil, tooltip) {
 
     const etapas = dadosFunil.etapas;
 
-    const larguraMaxima = width;
     const widthScale = d3.scaleLinear()
         .domain([0, etapas[0].valor]) 
         .range([0, larguraMaxima]);
@@ -26,7 +27,6 @@ function inicializarFunil(dadosFunil, tooltip) {
         const larguraProxima = widthScale(etapaProxima.valor);
         const yTopo = indice * alturaSegmento;
         const yBase = (indice + 1) * alturaSegmento;
-        const centroX = larguraMaxima / 2;
         
         return [
             [centroX - larguraAtual / 2, yTopo],
@@ -48,9 +48,10 @@ function inicializarFunil(dadosFunil, tooltip) {
             return pontos.map(p => p.join(",")).join(" ");
         })
         .style("fill", (d, i) => corEtapa(i + 1)) 
-        .style("stroke", "#000000") 
-        .style("stroke-width", "2px")
-        .style("opacity", 0.9)
+        .style("stroke", "#1f3b5b")
+        .style("stroke-width", "1.5px")
+        .style("opacity", 0.95)
+        .style("filter", "drop-shadow(0 2px 3px rgba(0,0,0,0.2))")
         .on("mouseover", function(event, d) {
             d3.select(this).style("opacity", 1).style("stroke", "#ffffff");
             tooltip.html(`
@@ -63,7 +64,7 @@ function inicializarFunil(dadosFunil, tooltip) {
             tooltip.style("left", (event.pageX + 15) + "px").style("top", (event.pageY - 15) + "px");
         })
         .on("mouseout", function() {
-            d3.select(this).style("opacity", 0.9).style("stroke", "#000000");
+            d3.select(this).style("opacity", 0.95).style("stroke", "#1f3b5b");
             tooltip.style("opacity", 0);
         });
 
@@ -74,7 +75,7 @@ function inicializarFunil(dadosFunil, tooltip) {
         .attr("class", "label-grupo")
         .attr("transform", (d, i) => {
             const y = i === etapas.length - 1 ? height : i * alturaSegmento;
-            return `translate(${larguraMaxima / 2}, ${y})`;
+            return `translate(${centroX}, ${y})`;
         });
 
     rotulos.append("text")
