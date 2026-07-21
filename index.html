@@ -8,11 +8,21 @@
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 <body>
+    <div class="legenda-scores">
+        <h2>Legenda dos scores</h2>
+        <p>
+            <strong>Score de infraestrutura:</strong> representa a presença de elementos básicos de acessibilidade nas salas. Para isso, foram considerados os critérios <em>rampa_sala</em>, <em>rampa_assento</em> e <em>banheiro_acessivel</em>. Como cada um é um indicador binário (Sim = 1; Não = 0), a métrica foi convertida para uma escala percentual por meio da média dos três itens. Dessa forma, um valor de 0,33 indica que apenas um dos três critérios foi atendido.
+        </p>
+        <p>
+            <strong>Score de capacidade:</strong> avalia a proporção de assentos acessíveis em relação ao total da sala. A lógica leva em conta a relação entre assentos especiais e assentos comuns, de forma proporcional ao tamanho da sala. Em seguida, os indicadores foram normalizados para uma escala entre 0 e 1. Para isso, foram usados os campos <em>assentos_cadeirantes</em>, <em>assentos_mobilidade_reduzida</em> e <em>assentos_obesidade</em>, sendo o resultado final obtido pela média desses três valores normalizados.
+        </p>
+    </div>
+
     <h1>Mapa do Brasil</h1>
     <div id="mapa-container"></div>
 
     <h1>Distribuição de Salas por Acessibilidade</h1>
-    <div id="beeswarm-container"></div>
+    <div id="scatter-container"></div>
 
     <h1>Funil de Conformidade em Acessibilidade</h1>
     <div id="funil-container"></div>
@@ -24,8 +34,9 @@
     <script src="js/data/ancine_funil.js"></script>
 
     <script src="js/mapa.js"></script>
-    <script src="js/beeswarm.js"></script>
+
     <script src="js/funil.js"></script>
+    <script src="js/scatter.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

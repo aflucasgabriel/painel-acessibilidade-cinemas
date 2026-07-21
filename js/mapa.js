@@ -1,4 +1,4 @@
-function inicializarMapa(geoData, ufLookup, tooltip) {
+function inicializarMapa(geoData, ufLookup, tooltip, onUFSelectionChange) {
     const container = d3.select("#mapa-container");
     const width = container.node().getBoundingClientRect().width || 800;
     const height = container.node().getBoundingClientRect().height || 600;
@@ -8,15 +8,16 @@ function inicializarMapa(geoData, ufLookup, tooltip) {
         .attr("height", height);
 
     const projection = d3.geoMercator().fitSize([width, height], geoData);
-
     const path = d3.geoPath().projection(projection);
 
     const valoresInfras = Array.from(ufLookup.values()).map(d => d.score_infra_medio);
     const extentInfra = d3.extent(valoresInfras);
-    
+
     const colorScale = d3.scaleLinear()
-    .domain(extentInfra)
-    .range(["#deebf7", "#08519c"]);
+        .domain(extentInfra)
+        .range(["#deebf7", "#08519c"]);
+
+    let selectedUFLocal = null;
 
     const estados = svg.selectAll(".estado")
         .data(geoData.features)
@@ -26,14 +27,22 @@ function inicializarMapa(geoData, ufLookup, tooltip) {
         .attr("class", "estado")
         .style("fill", d => {
             const dadosUF = ufLookup.get(d.properties.sigla);
-            return dadosUF ? colorScale(dadosUF.score_infra_medio) : "#e0e0e0"; 
+            return dadosUF ? colorScale(dadosUF.score_infra_medio) : "#e0e0e0";
         });
 
-    estados.on("mouseover", function(event, d) {
+    estados.on("click", function(event, d) {
+        const sigla = d.properties.sigla;
+        selectedUFLocal = selectedUFLocal === sigla ? null : sigla;
+        estados.classed("selected", state => state.properties.sigla === selectedUFLocal);
+        if (onUFSelectionChange) {
+            onUFSelectionChange(selectedUFLocal);
+        }
+    })
+    .on("mouseover", function(event, d) {
         const dadosUF = ufLookup.get(d.properties.sigla);
         let htmlContext = `<strong>Estado: ${d.properties.sigla}</strong><br/>`;
 
-        if(dadosUF) {
+        if (dadosUF) {
             htmlContext += `
                 <hr style="margin: 5px 0;">
                 Salas: ${dadosUF.qtd_salas}<br/>
@@ -48,7 +57,7 @@ function inicializarMapa(geoData, ufLookup, tooltip) {
     })
     .on("mousemove", function(event) {
         tooltip.style("left", (event.pageX + 15) + "px")
-               .style("top", (event.pageY - 15) + "px");
+            .style("top", (event.pageY - 15) + "px");
     })
     .on("mouseout", function() {
         tooltip.style("opacity", 0);
@@ -57,15 +66,13 @@ function inicializarMapa(geoData, ufLookup, tooltip) {
     desenharLegenda(svg, colorScale, extentInfra, width, height);
 
     const maxSalas = d3.max(Array.from(ufLookup.values()), d => d.qtd_salas);
-    
     const glyphSizeScale = d3.scaleSqrt().domain([0, maxSalas]).range([12, 45]);
-    
     const extentCap = d3.extent(Array.from(ufLookup.values()), d => d.score_capacidade_medio);
     const capColorScale = d3.scaleSequential(d3.interpolateOranges).domain(extentCap);
     const pathCamera = "M18 11c0-.96-.68-1.76-1.58-1.95c.36-.6.58-1.3.58-2.05c0-2.21-1.79-4-4-4c-1.52 0-2.82.86-3.5 2.1C8.82 3.85 7.52 3 6 3C3.79 3 2 4.79 2 7c0 .9.31 1.73.82 2.4c-.49.36-.82.95-.82 1.6v8c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-2.5l4 2v-7l-4 2zm-5-6c1.1 0 2 .9 2 2s-.9 2-2 2s-2-.9-2-2s.9-2 2-2M6 5c1.1 0 2 .9 2 2s-.9 2-2 2s-2-.9-2-2s.9-2 2-2";
 
-svg.selectAll(".glyph")
-        .data(geoData.features.filter(d => ufLookup.get(d.properties.sigla))) // Filtra UFs vazias
+    svg.selectAll(".glyph")
+        .data(geoData.features.filter(d => ufLookup.get(d.properties.sigla)))
         .enter()
         .append("g")
         .attr("class", "glyph")
@@ -77,16 +84,15 @@ svg.selectAll(".glyph")
         .each(function(d) {
             const data = ufLookup.get(d.properties.sigla);
             const size = glyphSizeScale(data.qtd_salas);
-         
             const scaleFactor = size / 24;
 
             d3.select(this).append("path")
                 .attr("d", pathCamera)
-                .attr("transform", `translate(${-size/2}, ${-size/2}) scale(${scaleFactor})`)
+                .attr("transform", `translate(${-size / 2}, ${-size / 2}) scale(${scaleFactor})`)
                 .style("fill", capColorScale(data.score_capacidade_medio))
-                .style("stroke", "#ffffff") 
+                .style("stroke", "#ffffff")
                 .style("stroke-width", "1.5px")
-                .style("vector-effect", "non-scaling-stroke"); 
+                .style("vector-effect", "non-scaling-stroke");
         });
 }
 
