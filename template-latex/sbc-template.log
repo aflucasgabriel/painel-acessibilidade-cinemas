@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.30)  22 JUL 2026 06:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.30)  22 JUL 2026 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,30 +205,33 @@ Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 100.
 Package babel Info: Making " an active character on input line 132.
 ))
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 21.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 20.
  (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
+) (sbc-template.aux
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 5.
 )
-No file sbc-template.aux.
 \openout1 = `sbc-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -305,219 +308,79 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package babel Info: 'brazil' activates 'portuges' shorthands.
-(babel)             Reported on input line 21.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 23.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 22.
  (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 23.
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 22.
  (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 63.
  (C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
 {C:/Users/vitoria-vaz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-Underfull \hbox (badness 1609) in paragraph at lines 71--72
+Underfull \hbox (badness 1609) in paragraph at lines 66--67
 []\OT1/ptm/m/n/12 Mapa Choropleth-Glyph para an[]alise es-pa-cial e multiatribui[][]ao ge-
  []
 
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:90: Missing $ inserted.
-<inserted text> 
-                $
-l.90 Um script em Python (pre_
-                              processar_ancine.py) executou as seguintes tra...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 90.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 90.
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:90: Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.90 ...e.py) executou as seguintes transformaçõ
-                                                  es:
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:91: Missing $ inserted.
-<inserted text> 
-                $
-l.91 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 119--122
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []\OT1/ptm/m/n/12 Matiz/Satura[][]ao ([]Area do Es-tado): Gra-di-ente li-near de azul
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 119--122
-\OT1/ptm/m/n/12 (d3.scaleLinear) re-pre-sen-tando o $[]$. Tons mais es-
+Underfull \hbox (badness 1014) in paragraph at lines 123--124
+\OT1/ptm/m/n/12 es-cu-ros di-re-ci-o-nam a aten[][]ao pr[]e-atentiva para es-ta-dos com me-lhor
  []
 
 
-Underfull \hbox (badness 2343) in paragraph at lines 119--122
-\OT1/ptm/m/n/12 cu-ros di-re-ci-o-nam a aten[][]ao pr[]e-atentiva para es-ta-dos com me-lhor
- []
-
-
-Underfull \hbox (badness 4266) in paragraph at lines 122--123
+Underfull \hbox (badness 4266) in paragraph at lines 124--125
 []\OT1/ptm/m/n/12 Glifo Tem[]atico (C[]amera de Ci-nema): Po-si-ci-o-nado no cen-troide
  []
 
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:123: Missing $ inserted.
-<inserted text> 
-                $
-l.123 ...qrt) pela quantidade de salas na UF (qtd_
-                                                  salas),
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-
-LaTeX Warning: Command \' invalid in math mode on input line 124.
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:124: Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.124 ...       garantindo proporcionalidade de á
-                                                  rea perceptiva e evitando ...
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 124.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 124.
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:124: Please use \mathaccent for accents in math mode.
-\add@accent ... \let \ignorespaces \relax \accent 
-                                                  #1 #2\egroup \ifmmode \els...
-l.124 ... área perceptiva e evitando a distorçã
-                                                  o do crescimento de raio.
-I'm changing \accent to \mathaccent here; wish me luck.
-(Accents are not the same in formulas as they are in text.)
-
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:125: LaTeX Error: Command \item invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.125               \item
-                          Cor do Glifo: Escala sequencial de laranjas (d3.in...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-c:/Users/vitoria-vaz/estudos/UFU/periodo-8/visualizacao/painel-acessibilidade-cinemas/template-latex/sbc-template.tex:125: Missing $ inserted.
-<inserted text> 
-                $
-l.125               \item C
-                           or do Glifo: Escala sequencial de laranjas (d3.in...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
-[]\OT1/ptm/m/n/12 Tamanho do Glifo: Co-di-fi-cado via es-cala de raiz qua-
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]\OT1/ptm/m/n/12 Tamanho do Glifo: Co-di-fi-cado via es-cala de raiz qua-drada
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
-\OT1/ptm/m/n/12 drada (d3.scaleSqrt) pela quan-ti-dade de sa-las na UF
+Underfull \hbox (badness 1675) in paragraph at lines 125--126
+\OT1/ptm/m/n/12 (\OT1/pcr/m/n/12 d3.scaleSqrt\OT1/ptm/m/n/12 ) pela quan-ti-dade de sa-las na UF (\OT1/pcr/m/n/12 qtd[]salas\OT1/ptm/m/n/12 ),
  []
 
 
-Overfull \hbox (157.465pt too wide) in paragraph at lines 123--125
-\OT1/ptm/m/n/12 (qtd$[]\OML/cmm/m/it/12 alas\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; garantindoproporcionalidadede[]reaperceptivaeevitandoadistor[][]odocrescimentoderaio:
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]\OT1/ptm/m/n/12 Cor do Glifo: Es-cala se-quen-cial de la-ran-jas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
-
+Underfull \hbox (badness 4266) in paragraph at lines 152--154
+[]\OT1/ptm/b/n/12 Met[]afora Vi-sual\OT1/ptm/m/n/12 : Fu-nil cont[]^^Pnuo com-posto por pol[]^^Pgonos tra-pe-zoi-dais
  []
 
-[3]
-
-LaTeX Warning: Reference `fig:exampleFig1' on page 4 undefined on input line 174.
-
-
-LaTeX Warning: Reference `fig:exampleFig2' on page 4 undefined on input line 175.
-
-<fig1.jpg, id=21, 254.3904pt x 232.2276pt>
-File: fig1.jpg Graphic file (type jpg)
-<use fig1.jpg>
-Package pdftex.def Info: fig1.jpg  used on input line 181.
-(pdftex.def)             Requested size: 213.39568pt x 194.81471pt.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 182.
-(C:\Users\vitoria-vaz\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
-File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-)
-<fig2.jpg, id=22, 205.7286pt x 234.1548pt>
-File: fig2.jpg Graphic file (type jpg)
-<use fig2.jpg>
-Package pdftex.def Info: fig2.jpg  used on input line 188.
-(pdftex.def)             Requested size: 128.0387pt x 145.73541pt.
-
-
-LaTeX Warning: Reference `sec:figs' on page 4 undefined on input line 190.
-
-
-LaTeX Warning: Reference `sec:figs' on page 4 undefined on input line 190.
-
-<table.jpg, id=23, 365.2044pt x 217.2918pt>
-File: table.jpg Graphic file (type jpg)
-<use table.jpg>
-Package pdftex.def Info: table.jpg  used on input line 206.
-(pdftex.def)             Requested size: 298.75264pt x 177.75932pt.
-[4 <./fig1.jpg>]
-
-LaTeX Warning: Citation `knuth:84' on page 5 undefined on input line 221.
-
-
-LaTeX Warning: Citation `boulic:91' on page 5 undefined on input line 222.
-
-
-LaTeX Warning: Citation `smith:99' on page 5 undefined on input line 222.
-
-(sbc-template.bbl [5 <./fig2.jpg> <./table.jpg>]) [6] (sbc-template.aux)
+[3] [4] [5] (sbc-template.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 6614 strings out of 467871
- 113110 string characters out of 5415472
- 538359 words of memory out of 5000000
- 35392 multiletter control sequences out of 15000+600000
- 648742 words of font info for 78 fonts, out of 8000000 for 9000
+ 6506 strings out of 467871
+ 111471 string characters out of 5415472
+ 539267 words of memory out of 5000000
+ 35291 multiletter control sequences out of 15000+600000
+ 644786 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,79p,420b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on sbc-template.pdf (6 pages, 268834 bytes).
+ 72i,10n,79p,551b,370s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/vitoria-vaz/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on sbc-template.pdf (5 pages, 137597 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
