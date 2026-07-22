@@ -74,7 +74,7 @@ h1 {
 }
 
 .tooltip {
-    position: fixed;
+    position: absolute;
     opacity: 0;
     background: rgba(30, 30, 30, 0.95);
     color: #ffffff;
