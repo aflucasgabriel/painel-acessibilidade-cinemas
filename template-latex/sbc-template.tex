@@ -2,9 +2,9 @@
 
 \usepackage{sbc-template}
 \usepackage{graphicx,url}
+\usepackage{amsmath}
 \usepackage[utf8]{inputenc}
 \usepackage[brazil]{babel}
-\usepackage[latin1]{inputenc}  
 
      
 \sloppy
@@ -36,51 +36,134 @@
 \end{resumo}
 
 
-\section{General Information}
+\section{Introdução}
 
-All full papers and posters (short papers) submitted to some SBC conference,
-including any supporting documents, should be written in English or in
-Portuguese. The format paper should be A4 with single column, 3.5 cm for upper
-margin, 2.5 cm for bottom margin and 3.0 cm for lateral margins, without
-headers or footers. The main font must be Times, 12 point nominal size, with 6
-points of space before each paragraph. Page numbers must be suppressed.
+O acesso à cultura e ao lazer é um direito fundamental estipulado por diretrizes 
+nacionais e internacionais de inclusão social. No contexto do entretenimento audiovisual, 
+garantir que complexos cinematográficos ofereçam acessibilidade física e espacial 
+apropriada é indispensável para promover a autonomia de pessoas com deficiência, 
+mobilidade reduzida ou obesidade. 
 
-Full papers must respect the page limits defined by the conference.
-Conferences that publish just abstracts ask for \textbf{one}-page texts.
+A Agência Nacional do Cinema (ANCINE) disponibiliza 
+dados abertos detalhados sobre o parque exibidor brasileiro. Contudo, tabelas puramente 
+numéricas dificultam a identificação de padrões espaciais, assimetrias regionais e gargalos 
+na jornada do espectador.
 
-\section{First Page} \label{sec:firstpage}
+Neste trabalho, propõe-se um sistema de análise visual interativo web, 
+fundado no processo clássico de visualização de dados, que transforma dados brutos da ANCINE 
+em representações gráficas enriquecidas. A solução adota metáforas visuais avançadas e 
+ferramentas de interação inter-relacionadas (como brushing \& linking e filtragem geográfica), 
+desenvolvidas estritamente com a biblioteca D3.js. 
 
-The first page must display the paper title, the name and address of the
-authors, the abstract in English and ``resumo'' in Portuguese (``resumos'' are
-required only for papers written in Portuguese). The title must be centered
-over the whole page, in 16 point boldface font and with 12 points of space
-before itself. Author names must be centered in 12 point font, bold, all of
-them disposed in the same line, separated by commas and with 12 points of
-space after the title. Addresses must be centered in 12 point font, also with
-12 points of space after the authors' names. E-mail addresses should be
-written using font Courier New, 10 point nominal size, with 6 points of space
-before and 6 points of space after.
+\section{Objetivos}
 
-The abstract and ``resumo'' (if is the case) must be in 12 point Times font,
-indented 0.8cm on both sides. The word \textbf{Abstract} and \textbf{Resumo},
-should be written in boldface and must precede the text.
+\subsection{Objetivo Geral}
 
-\section{CD-ROMs and Printed Proceedings}
+Desenvolver e aplicar um sistema de análise visual interativo baseado em web para mapear, 
+comparar e explorar a acessibilidade física e a capacidade de assentos adaptados em salas 
+de cinema de todas as Unidades Federativas (UFs) do Brasil.
 
-In some conferences, the papers are published on CD-ROM while only the
-abstract is published in the printed Proceedings. In this case, authors are
-invited to prepare two final versions of the paper. One, complete, to be
-published on the CD and the other, containing only the first page, with
-abstract and ``resumo'' (for papers in Portuguese).
+\subsection{Objetivos Específicos}
+\begin{itemize}
+    \item Pré-processar e estruturar a base de dados da ANCINE, calculando métricas compostas de infraestrutura e capacidade de atendimento;
+    \item Implementar três layouts gráficos avançados no D3.js que superem a limitação de gráficos básicos de barras ou setores:
+    \begin{itemize}
+        \item Mapa Choropleth-Glyph para análise espacial e multiatribuição geográfica;  
+        \item Scatter Plot Interativo com Painel KPI para exploração de relações entre capacidade e proporção de assentos reservados;
+        \item Funil de Conformidade Sequencial para avaliar os gargalos da jornada de acessibilidade física;
+    \end{itemize}
+    \item Prover mecanismos de interação rica (hovering, tooltips informativos, filtragem por clique e seleção por área com brushing bidimensional);
+    \item Extrair insights relevantes sobre as disparidades regionais de acessibilidade no território brasileiro.
+\end{itemize}
 
-\section{Sections and Paragraphs}
+\section{Pipeline de Visualização e Pré-Processamento dos Dados}
 
-Section titles must be in boldface, 13pt, flush left. There should be an extra
-12 pt of space before each title. Section numbering is optional. The first
-paragraph of each section should not be indented, while the first lines of
-subsequent paragraphs should be indented by 1.27 cm.
+A construção da ferramenta seguiu rigorosamente o modelo de Pipeline de Visualização:
 
-\subsection{Subsections}
+\[
+\text{Dados Brutos} \longrightarrow \text{Tabelas de Dados} \longrightarrow \text{Estruturas Visuais} \longrightarrow \text{Visões \& Interação}
+\]
+
+\subsection{Tratamento e Engenharia de Atributos em Python}
+
+A base bruta continha registros detalhados por sala de exibição. 
+Um script em Python (pre_processar_ancine.py) executou as seguintes transformações:
+
+\begin{enumerate}
+    \item Cálculo de Proporções Relativas: Para evitar viés de escala em salas grandes vs. pequenas, foram computadas as taxas de assentos acessíveis:
+    \subitem $$\text{prop\_cad} = \frac{\text{Assentos Cadeirantes}}{\text{Assentos Totais}}$$
+    \subitem $$\text{prop\_mob} = \frac{\text{Assentos Mobilidade Reduzida}}{\text{Assentos Totais}}$$
+    \subitem $$\text{prop\_obe} = \frac{\text{Assentos Obesidade}}{\text{Assentos Totais}}$$ 
+    \item Tratamento de Outliers e Normalização Global: Para combater distorções de valores extremos no reescalonamento Min-Max, aplicou-se um corte (clipping) no percentil 99 ($p_{99}$) das proporções antes da normalização para a escala $[0, 1]$:
+    \subitem $$\text{norm\_col} = \frac{\text{clip}(x, 0, p_{99}) - \min}{\max - \min}$$
+    \item Geração de Scores Compostos:
+      \begin{itemize}
+          \item Score de Infraestrutura ($\text{score\_infra}$): Média aritmética simples de três variáveis binárias ($0$ ou $1$): presença de rampa de acesso à sala, rampa de acesso aos assentos e banheiros acessíveis.
+          \item Score de Capacidade ($\text{score\_capacidade}$): Média das proporções normalizadas dos três tipos de assentos adaptados.
+      \end{itemize}
+    \item Exportação Hierárquica em JSON: Os dados foram estruturados em 5 JSONs leves otimizados para rápida renderização no lado do cliente (client-side) com D3.js: agregações por UF, Exibidor, Complexo, Funil e Nível de Sala.
+\end{enumerate}
+
+\section{Detalhamento da Proposta e Metáforas Visuais}
+
+A interface é composta por três visões integradas. O design visual apoiou-se em Princípios de Gestalt 
+e Atributos Pré-atentivos (cor, tamanho e posição) para otimizar a carga cognitiva.
+
+\subsection{Layout 1: Mapa Choropleth-Glyph (Análise Espacial Bivariada)}
+
+\begin{itemize}
+    \item Metáfora Visual: Representação cartográfica do território brasileiro em que cada UF atua como 
+    um contêiner geográfico.
+    \item Mapeamento de Canais Visuais:
+          \begin{itemize}
+              \item Matiz/Saturação (Área do Estado): Gradiente linear de azul (d3.scaleLinear) representando 
+              o $\text{score\_infra\_medio}$. Tons mais escuros direcionam a atenção pré-atentiva para estados 
+              com melhor infraestrutura. 
+              \item Glifo Temático (Câmera de Cinema): Posicionado no centroide geométrico de cada UF (d3.geoPath().centroid).
+              \item Tamanho do Glifo: Codificado via escala de raiz quadrada (d3.scaleSqrt) pela quantidade de salas na UF (qtd_salas), 
+              garantindo proporcionalidade de área perceptiva e evitando a distorção do crescimento de raio.
+              \item Cor do Glifo: Escala sequencial de laranjas (d3.interpolateOranges) refletindo o $\text{score\_capacidade\_medio}$.
+          \end{itemize}
+    \item Fundamentação de Percepção (Gestalt):
+          \begin{itemize}
+              \item Segregação Figura-Fundo: O traço contínuo dos estados e o contorno branco dos glifos garantem legibilidade sobre o fundo.
+              \item Proximidade: A centralização do glifo no centroide vincula visualmente o ícone ao seu respectivo estado.
+          \end{itemize}
+\end{itemize}
+
+\subsection{Layout 2: Distribuição de Salas com Brushing e KPIs (Análise Multivariada)}
+
+\begin{itemize}
+    \item Metáfora Visual: Plano cartesiano de dispersão (Scatter Plot) acompanhado por um dashboard de indicadores estatísticos.
+    \item Mapeamento de Canais Visuais:
+    \begin{itemize}
+      \item Eixo X (Posição Horizontal): Quantidade total de assentos por sala ($0$ a $1800$).  
+      \item Eixo Y (Posição Vertical): Percentual de assentos destinados a cadeirantes ($0\%$ a $40\%$). 
+      \item Cor do Ponto: Intensidade de azul proporcional ao $\text{score\_infra}$ individual da sala. 
+    \end{itemize}
+    \item Painel Estatístico Vinculado: Exibe KPIs como a taxa de "Jornada Acessível Completa" 
+    (presença simultânea de rampa de acesso, rampa aos assentos e banheiro acessível) e a contagem total de assentos adaptados.
+\end{itemize}
+
+\subsection{Layout 3: Funil Sequencial de Conformidade (Análise Processual)}
+
+\begin{itemize}
+    \item Metáfora Visual: Funil contínuo composto por polígonos trapezoidais (<polygon> no SVG), 
+    simbolizando a filtragem e retenção ao longo das etapas da experiência física do espectador.
+    \item Mapeamento de Canais Visuais:
+    \begin{itemize}
+    \item Largura das Bases: Mapeada linearmente (d3.scaleLinear) pelo volume de salas que atendem aos critérios.
+    \item Gradação de Cor: Escala d3.interpolateBlues que se intensifica conforme as exigências aumentam.
+    \end{itemize}
+    \item Significado das Etapas:
+    \begin{enumerate}
+    \item Base Total: 100% das salas catalogadas.
+    \item Acesso à Sala com Rampa: Salas que possuem rampa de entrada.
+    \item Assentos com Rampa: Salas que possuem rampa interna até as poltronas.
+    \item Sanitários Acessíveis: Salas integradas a complexos com banheiros adaptados (Acessibilidade Plena).
+    \end{enumerate}
+
+\end{itemize}
 
 The subsection titles must be in boldface, 12pt, flush left.
 
